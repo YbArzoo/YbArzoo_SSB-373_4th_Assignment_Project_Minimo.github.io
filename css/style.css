@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_part{
+
+width: 90%;
+
+margin-left: 5%;
+
+margin-top: 35px;
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+
+margin-top: 11px;
+
+margin-bottom: 20px;
+}
+nav{
+
+width: 65%;
+
+float: right;
+
+overflow: hidden;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+
+float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 100px;
+
+margin-top: 30px;
+
+margin-bottom: 20px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+font-size: 19px;
+    
+text-transform: uppercase;
+    
+color: #808080;
+}
+.feature{
+
+text-align: center;
+}
+.feature img{
+    
+padding-top: 25px;
+    
+width: 89%;
+}
+.content_section{
+    margin: 5% 12%;
+}
+
+.photodiary_1 h3{
+    color: #D6D7D4;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    font-size: 21px;
+}
+.photodiary_1 h1{
+    color: #888888;
+    padding-bottom: 25px;
+    font-size: 30px;
+}
+.photodiary_1 p{
+    color: #aaaaaa;
+    padding-bottom: 45px;
+    font-size: 17px;
+}
+.left_section{
+
+padding-top: 120px;
+}
+.left_section img{
+
+width: 45%;
+
+float: left;
+
+padding-right: 5%;
+}
+
+.right_section img{
+    
+width: 45%;
+}
+.content_section_2{
+
+overflow: hidden;
+
+float: left;
+
+width: 45%;
+}
+.content_section_2 h3{
+    
+padding-top: 30px;
+    
+padding-bottom: 25px;
+    
+color: #D6D7D4;
+}
+.content_section_2 h1{
+    color: #888888;
+    padding-bottom: 30px;
+}
+.content_section_2 p{
+    color: #aaaaaa;
+    
+}
+.content_section_2{
+
+overflow: hidden;
+
+float: left;
+
+width: 45%;
+
+padding-right: 59px;
+}
+.content_section_2 h3{
+    
+padding-top: 30px;
+    
+padding-bottom: 25px;
+    
+color: #D6D7D4;
+    
+text-transform: uppercase;
+    
+font-size: 21px;
+}
+.content_section_2 h1{
+    color: #888888;
+    padding-bottom: 30px;
+    font-size: 30px;
+}
+.content_section_2 p{
+    color: #aaaaaa;
+    padding-bottom: 27%;
+    font-size: 17px;
+}
+
+
+.content_section_3{
+
+    overflow: hidden;
+    
+    float: left;
+    
+    width: 45%;
+}
+    
+.content_section_3 h3{
+        
+padding-top: 30px;
+        
+padding-bottom: 25px;
+        
+color: #D6D7D4;
+        
+text-transform: uppercase;
+        
+font-size: 21px;
+}
+.content_section_3 h1{
+        color: #888888;
+        padding-bottom: 30px;
+        font-size: 30px;
+}
+.content_section_3 p{
+        color: #aaaaaa;
+        padding-bottom: 27%;
+        font-size: 17px;
+}
+.signup{
+    overflow: hidden;
+    width: 100%;
+    background-color: #F0F0F0;
+    height: 350px;
+    margin: 70px 0px;
+}
+.signup h1{
+
+text-align: center;
+
+color: black;
+
+font-size: 40px;
+
+margin-bottom: 5%;
+
+margin-top: 80px;
+}
+.signup input{
+    margin-left: 32%;
+    width: 36%;
+    font-size: 24px;
+    padding-bottom: 10px;
+    border: none;
+    border-bottom: 3px solid #333333;
+    margin-right: 0%;
+}
+.signup img{
+    float: right;
+    padding-right: 28%;
+}
+.btn{
+    text-align: center;
+
+}
+.btn button{
+    
+padding: 20px 45px;
+    
+font-size: 20px;
+    
+margin: 95px;
+    
+background-color: #FFFFFF;
+}
+.last_section{
+    margin: 45px 0px;
+}
+footer{
+    overflow: hidden;
+    background-color: #F0F0F0;
+}
+footer h3{
+    padding-left: 65px;
+    float: left;
+    color: #aaaaaa;
+        
+
+}
+footer h4{
+    padding-right: 40px;
+    margin-left: 57%;
+    float: left;
+    padding-top: 6px;
+    color: #aaaaaa;
+        
+}
+.ftr_logo img{
+    padding: 3px;
+}
